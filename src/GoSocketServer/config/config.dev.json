@@ -1,0 +1,16 @@
+{
+  "mysql": {
+    "name": "qiuku",
+    "addr": "127.0.0.1:3306",
+    "db": "qiuku",
+    "username": "qiuku",
+    "password": "qiuku",
+    "max_idel_conn": 10,
+    "max_open_conn": 256,
+    "conn_max_lifetime": 600
+  },
+  "server": {
+    "addr": "127.0.0.1",
+    "port": "8888"
+  }
+}
